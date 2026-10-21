@@ -1,0 +1,42 @@
+{
+  "item": {
+    "id": "979844991466",
+    "restype": "watchface",
+    "name": "4o",
+    "description": "小时两位分守对角，粗衬线像立式招牌，左上那位被悄悄拉长。分钟住进左下的仪表环：细长的辉光数字贴着内壁绕行，顶部留出三分之一的开口，是它们驶入驶出的月台。右上一道环，星期与日期围坐成一圈月历；两个环心同一字号——暗绿的秒像示波器余辉，数着时间；暗红的心率是全盘唯一的热，数着你。米黄只此一种，老仪表夜光涂层的颜色。\n\n息屏拿走秒与心率，笔画拆成细线。夜色里，仪表盘只剩时间的骨架：两点，一环。",
+    "preview": [
+      "media/01-main-face_结果.png",
+      "media/02-aod-face_结果.png"
+    ],
+    "icon": "media/cover_main-256.png",
+    "cover": "media/00comp_i_preview.png",
+    "author": [
+      {
+        "name": "seegood",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "seegood.top",
+      "url": "https://seegood.top",
+      "icon": "globe"
+    },
+    {
+      "title": "联系我",
+      "url": "https://imwjh.com/contact",
+      "icon": "envelope-open"
+    }
+  ],
+  "downloads": {
+    "xmrw6": {
+      "version": "0.0.0",
+      "file_name": "downloads/4o.bin",
+      "versionCode": 0
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
